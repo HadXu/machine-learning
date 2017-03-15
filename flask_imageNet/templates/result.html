@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .label {color: red;font-size: larger;}
+        .result {color: green;font-size: larger;}
+    </style>
+</head>
+<body>
+<h1 style="color: chartreuse;text-align: center">常熟理工学院图像识别系统开放API!</h1>
+<h3>识别结果为:</h3>
+{% for result in results %}
+    <p>可能为 <span class="label">{{ result.get('label') }}</span>, 概率为 <span class="result">{{ result.get('score') }}</span></p>
+{% endfor %}
+</body>
+</html>
