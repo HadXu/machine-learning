@@ -20,5 +20,7 @@
     vgg16_weights_tf_dim_ordering_tf_kernels.h5
     vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
  
-> 下载完尽情的玩吧。^-^
+> 下载完请放到~/.keras/models文件下。如果没有该文件夹，自己创建一个文件夹，运行后，尽情的玩吧。
+
+# ^-^
     
