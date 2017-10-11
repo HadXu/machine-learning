@@ -12,9 +12,24 @@
       
        3. [cs231n助教的教程](https://github.com/jcjohnson/pytorch-examples)
        
-## 我的学习历程（持续更新）
-    1. 简单的pytorch操作
-     
-    2. Variable
+       
+## 挖坑（pytorch论文实现）
+
+       1.MNIST普通MLP实现
+       
+       2.MNIST卷积神经网络实现
+       
+       3.CIFAR10卷积神经网络实现
+       
+       4.VGG模型实现
+       
+       5.ResNet模型实现
+       
+       6.R-CNN实现
+       
+       7.DQN实现
+ 
+ 
+ > 欢迎各位提交代码！
      
 
