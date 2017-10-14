@@ -17,7 +17,9 @@
 
        1.MNIST普通MLP实现 [mnist_mlp](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/mnist_mlp%20打开的正确方式.ipynb)
        
-       2.MNIST卷积神经网络实现
+       
+       2.MNIST卷积神经网络实现 [mnist cnn](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/CNN.ipynb)
+       
        
        3.CIFAR10卷积神经网络实现
        
