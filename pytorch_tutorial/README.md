@@ -23,7 +23,6 @@
        
        3.CIFAR10卷积神经网络实现  [cifar10 cnn](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/cifar10-CNN实现.ipynb)
        
-       
        4.VGG模型实现
        
        5.ResNet模型实现
