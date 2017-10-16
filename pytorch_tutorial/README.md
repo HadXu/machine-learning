@@ -27,6 +27,7 @@
        
        参考 [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)
        
+       
        5.ResNet模型实现
        
        6.R-CNN实现
