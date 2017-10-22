@@ -1,8 +1,10 @@
-# 人脸特征点检测系统
+# 人脸特征点检测系统
 ***
 
 该项目取自于优达学城的项目，目标是让学生学会使用haar级联找出人脸，以及各种操作，最后包括特征点提取。
 # 使用方式如下
+
+数据在[链接](https://www.kaggle.com/c/facial-keypoints-detection/data)
 
 ```
 cd data
