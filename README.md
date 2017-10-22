@@ -21,3 +21,5 @@
 9. [简单图片搜索服务器](https://github.com/HadXu/machine-learning/tree/master/simple_image_search)
 
 10. [cifar10-keras](https://github.com/HadXu/machine-learning/tree/master/cifar10_keras)
+
+11. [人脸特征点识别](https://github.com/HadXu/machine-learning/tree/master/AIND-CV-FacialKeypoints)
