@@ -27,7 +27,8 @@
        
        
        5.ResNet模型实现 [ResNet](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/ResNet模型.ipynb)
-   
+       
+       
        6.R-CNN实现
        
        7.DQN实现
