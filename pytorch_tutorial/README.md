@@ -26,8 +26,8 @@
        4.VGG模型实现 [VGG16](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/VGG16%20cifar10.ipynb)    参考 [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)
        
        
-       5.ResNet模型实现
-       
+       5.ResNet模型实现 [ResNet](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/ResNet模型.ipynb)
+   
        6.R-CNN实现
        
        7.DQN实现
