@@ -32,6 +32,8 @@
        6.R-CNN实现
        
        7.DQN实现
+       
+       8.Inception CNN [Inception](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/Inception%20CNN.ipynb)
  
  
  > 欢迎各位提交代码！
