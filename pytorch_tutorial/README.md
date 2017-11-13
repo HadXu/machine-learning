@@ -39,6 +39,8 @@
        
        10.Capsules network 
        
+       11.DenseNet
+       
  > 欢迎各位提交代码！
      
 
