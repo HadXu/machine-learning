@@ -35,7 +35,10 @@
        
        8.Inception CNN [Inception](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/Inception%20CNN.ipynb)
  
- 
+       9.FaceNet
+       
+       10.Capsules network 
+       
  > 欢迎各位提交代码！
      
 
