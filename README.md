@@ -23,3 +23,6 @@
 10. [cifar10-keras](https://github.com/HadXu/machine-learning/tree/master/cifar10_keras)
 
 11. [人脸特征点识别](https://github.com/HadXu/machine-learning/tree/master/AIND-CV-FacialKeypoints)
+
+12. [mlp 纯numpy实现](https://github.com/HadXu/machine-learning/blob/master/pure_numpy_mlp/MLP%20%E7%BA%AFnumpy%E5%AE%9E%E7%8E%B0.ipynb)
+
