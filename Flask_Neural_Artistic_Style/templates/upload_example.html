@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .father {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            top;
+            0;
+            left: 0;
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        .son {
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            width: 90%;
+            height: 90%;
+            margin: auto;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+<h1 style="text-align: center">深度学习神经网络绘画</h1>
+<div class="father">
+    <div class="son">
+        <form method=POST enctype=multipart/form-data action="{{ url_for('upload') }}">
+            <input type=file name=photo>
+            <input type=submit>
+        </form>
+        <img src="{{ url }}" width="128" height="128"/>
+    </div>
+
+</div>
+
+
+
+</body>
+</html>
