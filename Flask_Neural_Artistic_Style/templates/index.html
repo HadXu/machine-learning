@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>神经网络绘画</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        function c() {
+            var r = new FileReader();
+            f = document.getElementById('inputfile').files[0];
+            r.readAsDataURL(f);
+            r.onload = function (e) {
+                document.getElementById('show').src = this.result;
+            };
+        }
+
+        $(document).ready(function () {
+            $("#hide").click(function () {
+                $("#waiting").show();
+            });
+        });
+    </script>
+</head>
+<body>
+<div>
+    <div class="container">
+        <h1 class="text-center">神经网络绘画</h1>
+        <form role="form" class="form-inline text-center" method="POST" enctype=multipart/form-data
+              action="{{ url_for('upload') }}">
+            <div class="form-group">
+                <label for="name">第一步 请上传你的图片</label>
+                <input type="file" id="inputfile" onchange="c()" name="photo">
+                <img src="" id='show' width="256" height="256">
+            </div>
+            <div class="radio">
+                <label for="name">第二步 请选择您想要的风格</label>
+                <input type="radio" name="optionsRadios" id="picasso" value="picasso.jpg">
+                <img src="/static/imgs/picasso.jpg" height="256" width="256">
+                <input type="radio" name="optionsRadios" id="picasso" value="donelli.jpg">
+                <img src="/static/imgs/donelli.jpg" height="256" width="256">
+                <input type="radio" name="optionsRadios" id="picasso" value="starry_night.jpg">
+                <img src="/static/imgs/starry_night.jpg" height="256" width="256">
+            </div>
+            <div class="col-sm-offset-2 col-sm-10">
+                <button id="hide" class="btn btn-default" type="submit">开始生成</button>
+            </div>
+        </form>
+        <footer class="footer">
+            <div class="container">
+                <span class="text-muted">Author by hadxu</span>
+            </div>
+        </footer>
+    </div>
+</div>
+</body>
+</html>
