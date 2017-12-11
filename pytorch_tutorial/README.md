@@ -41,7 +41,7 @@
        
        11.DenseNet
        
-      12.Neural for Artistic Style
+       12.Neural for Artistic Style
  > 欢迎各位提交代码！
      
 
