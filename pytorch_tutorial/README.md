@@ -40,6 +40,8 @@
        10.Capsules network 
        
        11.DenseNet
+       
+       12.[A neural Algorithm of Artistic Style](https://github.com/HadXu/machine-learning/tree/master/pytorch_tutorial/%E6%A8%A1%E5%9E%8B%E5%AE%9E%E7%8E%B0/neural%20artistic%20style)
  > 欢迎各位提交代码！
      
 
