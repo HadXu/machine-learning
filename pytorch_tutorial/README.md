@@ -42,6 +42,9 @@
        11.神经网络绘画[neural artistic style](https://github.com/HadXu/machine-learning/tree/master/pytorch_tutorial/%E6%A8%A1%E5%9E%8B%E5%AE%9E%E7%8E%B0/neural%20artistic%20style)
        
        12.autoencoding [autoencoding](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/Auto%20Encoder.ipynb)
+       
+       
+       13.GAN [GAN](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/GAN.ipynb) 
  > 欢迎各位提交代码！
      
 
