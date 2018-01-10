@@ -45,6 +45,8 @@
        
        
        13.GAN [GAN](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/模型实现/GAN.ipynb) 
+
+       14 迁移学习 [transfer learning](https://github.com/HadXu/machine-learning/blob/master/pytorch_tutorial/fining_turning_example.ipynb)
+       
  > 欢迎各位提交代码！
-     
 
