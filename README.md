@@ -29,3 +29,5 @@
 13. [Flask实现风格转换的网站版](https://github.com/HadXu/machine-learning/tree/master/Flask_Neural_Artistic_Style)
 
 14. [强化学习pong](https://github.com/HadXu/machine-learning/tree/master/Pong%20v0)
+
+15. [实现FaceBox 基于Pytorch](https://github.com/HadXu/machine-learning/tree/master/FaceBoxes/code)
