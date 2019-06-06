@@ -33,3 +33,5 @@
 15. [实现FaceBox 基于Pytorch](https://github.com/HadXu/machine-learning/tree/master/FaceBoxes/code)
 
 16. [Pytorch4NLP](https://github.com/HadXu/machine-learning/tree/master/nlp_pytorch)
+
+17. [Cython tutorial](https://github.com/HadXu/machine-learning/tree/master/cython-tutorial)
