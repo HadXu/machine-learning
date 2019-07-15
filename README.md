@@ -35,3 +35,5 @@
 16. [Pytorch4NLP](https://github.com/HadXu/machine-learning/tree/master/nlp_pytorch)
 
 17. [Cython tutorial](https://github.com/HadXu/machine-learning/tree/master/cython-tutorial)
+
+18. [nlp-paper(BERT,Transformer)](https://github.com/HadXu/machine-learning/tree/master/nlp_pytorch/nlp-implement)
